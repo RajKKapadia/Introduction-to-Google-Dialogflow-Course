@@ -32,11 +32,11 @@ def webhook():
     '''
     return jsonify(
         {
-            "fulfillmentMessages": [
+            'fulfillmentMessages': [
                 {
-                    "text": {
-                        "text": [
-                            "Thank you for the information."
+                    'text': {
+                        'text': [
+                            'Thank you for the information.'
                         ]
                     }
                 }
