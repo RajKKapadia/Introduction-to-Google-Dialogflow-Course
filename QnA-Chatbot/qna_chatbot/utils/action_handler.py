@@ -160,7 +160,7 @@ def default_welcome_intent(body: dict) -> dict:
         [
             'Welcome to High Five Maths!',
             f'We hope you will have fun learning with us. If you do not know he answer, just try your best and give it a go.',
-            'You will be asked {config.NUMB_QUE_TO_ASK} questions one by one.',
+            f'You will be asked {config.NUMB_QUE_TO_ASK} questions one by one.',
             'At what level do you want to start the quiz now?'
         ],
         output_contexts
