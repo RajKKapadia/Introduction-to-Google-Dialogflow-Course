@@ -1,1 +1,108 @@
-<mxfile host="Electron" modified="2023-08-29T10:16:29.580Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.3.0 Chrome/104.0.5112.114 Electron/20.1.3 Safari/537.36" etag="cP9GagqYGTwHkH72uxz6" version="20.3.0" type="device"><diagram id="LPfREkKcB6x-U4pPt1jh" name="Page-1">5VtZc9o6FP41PNLxgg08EkjSdnLTLNNp89QRWGAltsWVxJZfX8mWMbZE4hSwgbyAdXQkS+fTWQUNux8urwmY+v9hDwYNy/CWDXvQsKyOafNPQVglhFa3lRAmBHkJycwIj+gVSqIhqTPkQZpjZBgHDE3zxBGOIjhiORogBC/ybGMc5N86BROoEB5HIFCpv5DHfLktx8joXyGa+OmbTUP2hCBllgTqAw8vNkj2ZcPuE4xZ8hQu+zAQskvlkoy72tK7XhiBESszYHa7undA6N/Bh3ty/yd8NnvfmxKMOQhmcsNysWyVSgB6XCCyiQnz8QRHILjMqBcEzyIPitcYvJXx3GA85USTE58hYyuJLpgxzEk+CwPZq25F7o7iGRnBN9afHglAJpC9wSdPodjLxgukoK4hDiEjK85AYAAYmufBB/IMTdZ8mZj5g5T0B6RuKlL/SSHhlGazYbkg5FK7mLBYMMZXPh/mb6F8j0wcdB+IryE/NpYbCKYhH+nG7BeCqJvkLoCAwng0xvEDEDqJxmM0mgVM7DyA81hzh5AtIIz4kxnrGv9wviiHIoNc4LfwEYOPUxBDteB2oCS8c0gYXL4JiOy1UrVKzYhsLjKdNF1J8zf0sWMcCEJLgXAAx4DLkhN/wWDEX8OfvkVM7LkoPb5plhcRCNAk4s8jzs5Pgn0hRIO4GerJjhB5XqJskKJXMIynEuo2xShi8e6ci4YzEHNx/aKJqompKSP4BfZxgPm8gwhHcD+QuHlE2hpEWhpErD0gEtng+60RtX8gPIK/redrsug1O3VYLrhE7LcY/sVyZPNpo2uwlFPHjVXaiPh+k1FO2nza7MuGxa10nNaG/ZvdtFW7Ofq2+Hll3ILOzYvnhMB49jFouhWZSS2i3XoRbZ86olqhtut0fPYHHJ/zAf/Woy9URHeIUMHx/wxShnBUu9tqHZvbchQAtsr00efRqmVgvlsQT0xHmMShQ+TFS4tFHgcIaWzCfBhLH70KhglA0RFEDq08BLZbNwamGjuABUCsuRmPnWPE0HFySKxTpQ0kugeKGPRAbDVHdwTP47zTMgabQfJNEiSfIzhO5/14rl0pOmpumqgJiOhCoHSOKLhWHoX6dUT1GJ/DWBWR0LjuaoFwSxirnlQN/nCmsJgFWEqHVPbBgOl8QjtlOnlfbqV2oi71SCfeQIFCSnkS0JwDQs8ThYLLXuvGOyDsQxW01QK1rqnI/Viqyc9e2Lm5Grf8Pw+9B88JeualWbqaLM969dVkrdRPqIZfVurafdZWw39r1RtSvwFUU5Nf1yLsKwUW4uNwOKPVlCJK5MGdA6XBWjjVLPgJHqOdHqMg2L/pbpkFOBzVgerK5wez3Wou/F5liIs3ue8YixpQWvtJK2/9hBbFa31ZM0QCz4yv/vqQUqLrlAwoD6YYasZ1iz+PXnQLcLSq0wttvTzV0zq86UcvBrZf4eTd63aHVlcMszW51ZifaZbvbkmxKq8xFwJxS1O1qdaGdBV5fo6qjWkX3Gq3XEq0j7xUnxKpeen5VwecghF3zOpQ0BvxD5iXs/nBjYKXBtXSP7hxqzRpWgzVfOFRItQTN41Hq0k7wVBQJFdT4dElbQeLhtQs4WT8yk44FK4uXU22VqlBU2s+J1Ht3A2Dgi60y2FwMF1Q87Q3LmRuZ+HwiN39TsC4hdKS9k6mUmjUdOIkgq7dUCj4iiqvZPRBl6kI+mgz54P8VE4OvRMnIsOpVbBj60JsOkWSqctRBQzWy/h3WNrbzFZVqfZOp7wovUOm2ryZ/T0jEX/2Hxf78i8=</diagram></mxfile>
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram id="LPfREkKcB6x-U4pPt1jh" name="Page-1">
+    <mxGraphModel dx="989" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uNyQ5amhPeRQrQ_mj1AJ-1" target="uNyQ5amhPeRQrQ_mj1AJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-1" value="User --&amp;gt; Hello/start chat bot&lt;br&gt;Bot --&amp;gt; Please choose a difficulty level between 1 to 5." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-2" value="Default Welcome Intent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="70" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uNyQ5amhPeRQrQ_mj1AJ-3" target="cIwUF0Na8Lkd5ma0jhoa-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uNyQ5amhPeRQrQ_mj1AJ-3" target="n3aJN0n7OioceX2jGrwA-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-3" value="User --&amp;gt; 5&lt;br&gt;Bot --&amp;gt; Asks first question" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-5" value="Bot --&amp;gt; Show overall score and asks to start the quiz again." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-12" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="85" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-13" value="User Provides Difficulty Level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="580" y="70" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-14" value="await-answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-15" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-16" value="User Provides Answer Any" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-18" value="await-answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="215" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-20" value="session-vars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jdm8LFf4h_RARd5lA1E1-1" target="uNyQ5amhPeRQrQ_mj1AJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jdm8LFf4h_RARd5lA1E1-1" target="cIwUF0Na8Lkd5ma0jhoa-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jdm8LFf4h_RARd5lA1E1-1" value="Last&lt;br&gt;question?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-2" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="355" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-3" value="Bot --&amp;gt; Show result fo the question, then ask the next question." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-5" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="490" y="445" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cIwUF0Na8Lkd5ma0jhoa-6" target="jdm8LFf4h_RARd5lA1E1-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-6" value="User --&amp;gt; provides answer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-9" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="390" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cIwUF0Na8Lkd5ma0jhoa-10" value="await-answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="590" y="510" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-1" value="User --&amp;gt; Hello/start chat bot&lt;br&gt;Bot --&amp;gt; Please choose a difficulty level between 1 to 5." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-2" value="Start Again" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="600" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-3" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="95" y="635" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-4" value="session-vars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="655" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-5" value="User Provides Answer Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-6" value="await-answer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="215" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n3aJN0n7OioceX2jGrwA-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n3aJN0n7OioceX2jGrwA-7" value="User --&amp;gt; provides answer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

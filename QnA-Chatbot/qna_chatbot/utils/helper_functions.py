@@ -9,7 +9,7 @@ with open(config.QNA_FILE_PATH, 'rb') as file:
     qna = json.loads(file.read())
 
 
-def get_parameters(body: dict, context_name: str) -> dict:
+def get_parameters(body: dict, context_name: str) -> dict[str, any]:
     output_contexts = body['queryResult']['outputContexts']
     parameters = {}
     for oc in output_contexts:
@@ -19,7 +19,7 @@ def get_parameters(body: dict, context_name: str) -> dict:
     return parameters
 
 
-def format_response(messages: list[str], output_contexts: list[dict] = []) -> dict:
+def format_response(messages: list[str], output_contexts: list[dict[str, any]] = []) -> dict[str, any]:
     response_data = {
         'fulfillmentMessages': [
             {
@@ -34,13 +34,13 @@ def format_response(messages: list[str], output_contexts: list[dict] = []) -> di
     return response_data
 
 
-def get_error_message() -> dict:
+def get_error_message() -> dict[str, any]:
     error_message = choice(config.ERROR_MESSAGES)
     response_data = format_response([error_message])
     return response_data
 
 
-def get_random_qna(difficulty_level: str) -> list:
+def get_random_qna(difficulty_level: str) -> list[dict[str, any]]:
     try:
         random_qna = choices(
             list(qna[str(difficulty_level)].values()), k=config.NUMB_QUE_TO_ASK)

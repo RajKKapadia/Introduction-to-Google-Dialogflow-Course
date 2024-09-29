@@ -16,10 +16,13 @@
                 "What shape, has 4 equal sides?"
             ],
             "prefferedAnswer": [
-                "square"
+                "square",
+                "Square",
+                "a square"
             ],
             "alternateAnswers": [
-                "four sides"
+                "a cube",
+                "cube"
             ]
         },
         "3": {
@@ -42,7 +45,7 @@
             ],
             "alternateAnswers": [
                 "four",
-                4
+                "Four"
             ]
         },
         "5": {
@@ -54,7 +57,6 @@
             ],
             "alternateAnswers": [
                 "four",
-                4,
                 "Four"
             ]
         },
@@ -2491,7 +2493,8 @@
                 "Round 1 point 7, 8, 2, to one decimal place?"
             ],
             "prefferedAnswer": [
-                "1 point 8"
+                "1 point 7",
+                "1.7"
             ],
             "alternateAnswers": [
                 1.8
