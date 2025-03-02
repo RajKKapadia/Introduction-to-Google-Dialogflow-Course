@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
   <diagram id="LPfREkKcB6x-U4pPt1jh" name="Page-1">
-    <mxGraphModel dx="989" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="200" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-2" value="Default Welcome Intent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="60" y="70" width="140" height="20" as="geometry" />
+          <mxGeometry x="60" y="40" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uNyQ5amhPeRQrQ_mj1AJ-3" target="cIwUF0Na8Lkd5ma0jhoa-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="240" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-12" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="85" y="100" width="90" height="20" as="geometry" />
+          <mxGeometry x="85" y="70" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-13" value="User Provides Difficulty Level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="70" width="170" height="20" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="155" y="215" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uNyQ5amhPeRQrQ_mj1AJ-20" value="session-vars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="80" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cIwUF0Na8Lkd5ma0jhoa-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jdm8LFf4h_RARd5lA1E1-1" target="uNyQ5amhPeRQrQ_mj1AJ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,16 +77,16 @@
           <mxGeometry x="590" y="510" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-1" value="User --&amp;gt; Hello/start chat bot&lt;br&gt;Bot --&amp;gt; Please choose a difficulty level between 1 to 5." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="600" width="160" height="80" as="geometry" />
+          <mxGeometry x="190" y="540" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-2" value="Start Again" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="600" width="80" height="30" as="geometry" />
+          <mxGeometry x="90" y="540" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-3" value="await-difficulty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="95" y="635" width="90" height="20" as="geometry" />
+          <mxGeometry x="85" y="575" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-4" value="session-vars" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="655" width="90" height="30" as="geometry" />
+          <mxGeometry x="80" y="595" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n3aJN0n7OioceX2jGrwA-5" value="User Provides Answer Number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="190" height="30" as="geometry" />
